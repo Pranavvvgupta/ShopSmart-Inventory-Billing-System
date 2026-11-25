@@ -1,0 +1,11 @@
+item_id,name,category,price,quantity,reorder_level
+101,Rice 1kg,Grocery,60.00,0,10
+102,Sugar 1kg,Grocery,45.00,28,10
+103,Notebook A4,Stationery,40.00,19,8
+104,Ball Pen Blue,Stationery,10.00,85,20
+105,Bath Soap,Personal Care,35.00,9,10
+106,Wheat Flour 5kg,Grocery,210.00,2,8
+107,Cooking Oil 1L,Grocery,140.00,18,6
+108,Highlighter,Stationery,25.00,5,8
+109,Herbal Shampoo,Personal Care,95.00,14,5
+110,Masala Tea 250g,Grocery,80.00,22,8
